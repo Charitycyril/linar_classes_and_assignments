@@ -1,0 +1,5 @@
+T=(4,5,2,3,7,9.2)
+print(T.count(2))
+print(T.index(9.2))
+print(T)
+print(type(T))
