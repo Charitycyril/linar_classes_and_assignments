@@ -4,7 +4,8 @@ def sum(n):
         for j in range(1,i-1):
             s+=j
     return s        
-print(sum(5))
+'''print(sum(5))
 for i in range(1,0):
     print(i)
-'''s=-0'''
+s=-0
+'''
